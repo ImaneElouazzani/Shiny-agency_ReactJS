@@ -1,8 +1,8 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import {BrowserRouter as Router, Route} from 'react-router-dom'
-import Home from './Pages/Home'
-import Survey from './Pages/Survey'
+import Home from './Pages/Home/Home'
+import Survey from './Pages/Survey/Survey'
 
 ReactDOM.render(
   <React.StrictMode>

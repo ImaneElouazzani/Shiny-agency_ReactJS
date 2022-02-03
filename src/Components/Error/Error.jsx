@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 import colors from '../../utils/style/colors'
-import svgError from '../../assets/undraw.svg'
+import svgError from '../../assets/404.svg'
 
 const ErrorWrapper = styled.div`
   margin: 30px;
